@@ -37,7 +37,7 @@ The app replicates the core visual design of the Telebirr home experience, inclu
 
 ## Screenshots
 
-<img src="https://github.com/Burati063/Telebirr-clone/assets/106627959/37502f69-0ac8-42eb-a036-28e2a66ce57d" width="220" alt="App Screenshot" />
+<img src="https://github.com/Burati063/Telebirr-clone/assets/106627959/37502f69-0ac8-42eb-a036-28e2a66ce57d.png" width="220" alt="App Screenshot" />
 
 ---
 
@@ -257,7 +257,7 @@ All image assets live in the `images/` directory:
 | `banner-3.jpg` | Carousel slide 3 |
 | `ethio-logo.png` | Bottom grid — Ethio Telecom Bill shortcut |
 | `christmas.png` | Bottom grid — Christmas trade fair shortcut |
-| `br7logo.png` | App launcher icon |
+
 
 ---
 

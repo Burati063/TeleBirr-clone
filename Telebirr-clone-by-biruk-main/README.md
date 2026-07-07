@@ -36,9 +36,7 @@ The app replicates the core visual design of the Telebirr home experience, inclu
 ---
 
 ## Screenshots
-
-<img src="https://github.com/Burati063/Telebirr-clone/assets/106627959/37502f69-0ac8-42eb-a036-28e2a66ce57d.png" width="220" alt="App Screenshot" />
-
+<img src="https://github.com/Burati063/TeleBirr-clone/blob/main/Telebirr-clone-by-biruk-main/asset/294894665-37502f69-0ac8-42eb-a036-28e2a66ce57d.png" width="220" alt="App Screenshot" />
 ---
 
 ## Project Structure
